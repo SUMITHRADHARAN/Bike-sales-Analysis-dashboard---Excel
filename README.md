@@ -1,9 +1,5 @@
 # Bike-sales-Analysis-dashboard---Excel
 
-Labmentix (@labmentix) • Instagram photos and videos          BIKE SALES ANALYSIS DASHBOARD — EXCEL 
-
-  
-
 INTRODUCTION: 
 
 The Bike Sales Analysis project is a data-centric initiative designed to bridge the gap between raw datasets and strategic business decision-making within the bicycle industry. By leveraging Microsoft Excel for advanced analytical tools, the project systematically processes customer information — such as income levels, commute patterns, and age — to uncover the key drivers behind bike purchases.  
