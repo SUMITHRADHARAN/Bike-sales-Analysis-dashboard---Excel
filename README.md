@@ -1,4 +1,7 @@
 # Bike-sales-Analysis-dashboard---Excel
+        BIKE SALES ANALYSIS DASHBOARD — EXCEL 
+
+  
 
 INTRODUCTION: 
 
@@ -343,4 +346,5 @@ Leveraging Excel’s Power Query for more robust and automated data transformati
 
 Refining the dashboard design with more advanced formatting or visual elements to improve user experience. 
 
+ 
  
